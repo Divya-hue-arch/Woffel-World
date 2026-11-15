@@ -1,0 +1,58 @@
+/* Simple external CSS for Woffel World */
+body {
+  background-color: #fff8ed;
+  color: #3b281f;
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+  margin: 0;
+}
+h1,
+h2,
+h3 {
+  color: #4b2e24;
+}
+a {
+  color: #4b2e24;
+  text-decoration: none;
+  font-weight: bold;
+}
+a:hover {
+  color: #c47b20;
+  text-decoration: underline;
+}
+table {
+  border-collapse: collapse;
+}
+.nav {
+  background-color: #4b2e24;
+  color: white;
+}
+.nav a {
+  color: white;
+  padding: 10px;
+}
+.nav a:hover {
+  color: #ffd98a;
+}
+.card {
+  background-color: white;
+  border: 1px solid #e4cda9;
+  padding: 12px;
+}
+.price {
+  color: #9b5a16;
+  font-weight: bold;
+  font-size: 18px;
+}
+.footer {
+  background-color: #2b1b16;
+  color: white;
+  text-align: center;
+  padding: 16px;
+}
+.footer a {
+  color: #ffd98a;
+}
+img {
+  border: 2px solid #e8b04a;
+}
